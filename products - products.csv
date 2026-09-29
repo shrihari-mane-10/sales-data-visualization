@@ -1,0 +1,13 @@
+Product_ID,Product_Name,Category,Unit_Price
+P01,Laptop,Electronics,55000
+P02,Mobile,Electronics,25000
+P03,Tablet,Electronics,18000
+P04,Headphones,Accessories,3000
+P05,Smartwatch,Accessories,8000
+P06,Printer,,15000
+P07,Office Chair,Furniture,7000
+P08,Study Desk,Furniture,12000
+P09,Keyboard,accessories,1800
+P10,Monitor,Electronics,16000
+P11,Router,Networking,3500
+P12,Webcam,Accessories,4500
